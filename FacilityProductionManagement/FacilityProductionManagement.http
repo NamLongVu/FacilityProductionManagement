@@ -1,0 +1,6 @@
+@FacilityProductionManagement_HostAddress = http://localhost:5159
+
+GET {{FacilityProductionManagement_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
